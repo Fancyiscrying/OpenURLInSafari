@@ -13,6 +13,8 @@
 		B1C90E3F1C83CF8F007CB80A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1C90E3D1C83CF8F007CB80A /* Main.storyboard */; };
 		B1C90E411C83CF8F007CB80A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1C90E401C83CF8F007CB80A /* Assets.xcassets */; };
 		B1C90E441C83CF8F007CB80A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1C90E421C83CF8F007CB80A /* LaunchScreen.storyboard */; };
+		B1C90E4D1C83D00D007CB80A /* SafariActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = B1C90E4C1C83D00D007CB80A /* SafariActivity.m */; };
+		B1C90E4F1C83D0E2007CB80A /* 1 37.png in Resources */ = {isa = PBXBuildFile; fileRef = B1C90E4E1C83D0E2007CB80A /* 1 37.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,9 @@
 		B1C90E401C83CF8F007CB80A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1C90E431C83CF8F007CB80A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B1C90E451C83CF8F007CB80A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1C90E4B1C83D00D007CB80A /* SafariActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SafariActivity.h; sourceTree = "<group>"; };
+		B1C90E4C1C83D00D007CB80A /* SafariActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SafariActivity.m; sourceTree = "<group>"; };
+		B1C90E4E1C83D0E2007CB80A /* 1 37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1 37.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +67,9 @@
 				B1C90E381C83CF8F007CB80A /* AppDelegate.m */,
 				B1C90E3A1C83CF8F007CB80A /* ViewController.h */,
 				B1C90E3B1C83CF8F007CB80A /* ViewController.m */,
+				B1C90E4E1C83D0E2007CB80A /* 1 37.png */,
+				B1C90E4B1C83D00D007CB80A /* SafariActivity.h */,
+				B1C90E4C1C83D00D007CB80A /* SafariActivity.m */,
 				B1C90E3D1C83CF8F007CB80A /* Main.storyboard */,
 				B1C90E401C83CF8F007CB80A /* Assets.xcassets */,
 				B1C90E421C83CF8F007CB80A /* LaunchScreen.storyboard */,
@@ -138,6 +146,7 @@
 			files = (
 				B1C90E441C83CF8F007CB80A /* LaunchScreen.storyboard in Resources */,
 				B1C90E411C83CF8F007CB80A /* Assets.xcassets in Resources */,
+				B1C90E4F1C83D0E2007CB80A /* 1 37.png in Resources */,
 				B1C90E3F1C83CF8F007CB80A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -151,6 +160,7 @@
 			files = (
 				B1C90E3C1C83CF8F007CB80A /* ViewController.m in Sources */,
 				B1C90E391C83CF8F007CB80A /* AppDelegate.m in Sources */,
+				B1C90E4D1C83D00D007CB80A /* SafariActivity.m in Sources */,
 				B1C90E361C83CF8F007CB80A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
